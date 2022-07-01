@@ -1,0 +1,17 @@
+.side-bar{
+    height: 50px;
+    width:100%;
+    background-color: black;
+    color:white;
+    align-items: center; padding: 10px;
+}
+.link{
+   
+    margin:5px;
+    color:white;
+    text-decoration: none;
+    
+}
+.link:hover{
+    color:yellow
+}
